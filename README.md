@@ -22,7 +22,7 @@ NoSongGlobal_final project
     6. Mypage에서 좋아요한 게시글과 사용자가 작성한 게시글 목록 제공
 
 # 3. 데이터 베이스 모델링 (ERD)
-<img src="https://raw.githubusercontent.com/isabel-noh/NoSongGlobal/master/%EC%B5%9C%EC%A2%85_ERD.png?token=GHSAT0AAAAAAB2RJG7BCBOSIB24ZGIOIT5GY4N7MUQ">
+<img src="https://user-images.githubusercontent.com/83000975/230779999-27d28b72-672a-4cfc-9936-239751950c7f.png">
 
 # 4. 영화 추천 알고리즘
 
